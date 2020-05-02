@@ -40,15 +40,7 @@ wc = WordCloud(background_color='white')
 
 python还支持很多颜色，下表列出了一部分，有兴趣的读者可自行尝试：
 
-|单词|颜色|
-|:-:|:-:|
-|gray|灰色||coral|珊瑚色||magenta|洋红色|
-|lightcoral|浅珊瑚色||brown|棕色||fuchsia|紫红色|
-|firebrick|火砖色||red|红色||darkorchid|暗紫色|
-|orangered|橘红色||goldenrod|金麒麟色||blueviolet|蓝紫色|
-|greenyellow|黄绿色||chartreuse|黄绿色||dodgerblue|闪蓝色|
-|lawngreen|草坪绿||aquamarine|碧绿色||deepskyblue|深天蓝色|
-|turquoise|蓝绿色||cyan|蓝绿色||red|红色|
+![available_color](https://upload-images.jianshu.io/upload_images/23208742-7b37a40318821dba.PNG?imageMogr2/auto-orient/strip|imageView2/2/w/847/format/webp)
 
 ### 制作中文词云
 可能有的读者已经发现，上面的代码使用中文字符串时，输出的词云会显示一堆大小不一的方框，看不到中文的影子。
