@@ -40,8 +40,8 @@ wc = WordCloud(background_color='white')
 
 python还支持很多颜色，下表列出了一部分，有兴趣的读者可自行尝试：
 
-|单词|颜色||单词|颜色||单词|颜色|
-|:-:|:-:||:-:|:-:||:-:|:-:|
+|单词|颜色|
+|:-:|:-:|
 |gray|灰色||coral|珊瑚色||magenta|洋红色|
 |lightcoral|浅珊瑚色||brown|棕色||fuchsia|紫红色|
 |firebrick|火砖色||red|红色||darkorchid|暗紫色|
